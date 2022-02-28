@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The information of Edward Turbervill of Skerr in the county of Glamorgan, Gent Delivered at the bar of the House of Commons, Tuesday the ninth day of November, 1680. Perused and signed to be printed, according to the order of the House of Commons, by me William Williams, speaker.</title>
+            <author>Turberville, Edward, 1648?-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95359</idno>
+            <idno type="STC">Wing T3252A</idno>
+            <idno type="STC">ESTC R232991</idno>
+            <idno type="EEBO-CITATION">99898087</idno>
+            <idno type="PROQUEST">99898087</idno>
+            <idno type="VID">133424</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95359)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133424)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2557:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The information of Edward Turbervill of Skerr in the county of Glamorgan, Gent Delivered at the bar of the House of Commons, Tuesday the ninth day of November, 1680. Perused and signed to be printed, according to the order of the House of Commons, by me William Williams, speaker.</title>
+                  <author>Turberville, Edward, 1648?-1681.</author>
+                  <author>Williams, William, b. 1613.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Dublin :</pubPlace>
+                  <date>Reprinted 1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the Society of Antiquaries, London, England.</note>
+                  <note>Wing CD-ROM, 1996 calls this a broadsheet.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Turberville, Edward, 1648?-1681 --  Early works to 1800.</term>
+               <term>Catholics --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133424:1"/>
+            <!-- PDF PAGE 7 -->
+            <p>THE INFORMATION OF Edward Turbervill Of <hi>SKERR</hi> in the County of GLAMORGAN, Gent. Delivered at the BAR of the <hi>HO<g ref="char:V">Ʋ</g>SE of COMMONS, Tueſday</hi> the Ninth day of <hi>November,</hi> 1680.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Peruſed and Signed to be Printed, according to the Ord<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible: missing" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> of the Houſe of Commons,</p>
+                        <closer>
+                           <signed>By me <hi>WILLIAM WILLIAMS,</hi> Speaker.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Reprinted 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:133424:2"/>
+            <!-- PDF PAGE 8 -->
+            <head>THE INFORMATION OF Edw. Turbervill <hi>Of SKERR in the County</hi> OF GLAMORGAN, Gent.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Ho ſaith, That being a younger Brother, about the year 1673. he became Gentleman Uſher to the Lady <hi>Ma<g ref="char:EOLhyphen"/>ry Molineux,</hi> Daughter to the Earl of <hi>Powis;</hi> and by that means lived in the Houſe of the ſaid Earl about three years: and by ſerving and aſſiſting at Maſs there, grew intimate with <hi>William Morgan</hi> Confeſſor to the Earl and his Family: who was a Jeſuit, and Rector over all the Jeſuits in North-<hi>Wales, Shropſhire,</hi> and <hi>Staffordſhire.</hi> And he du<g ref="char:EOLhyphen"/>ring the three years time often heard the ſaid <hi>Morgan</hi> tell the ſaid Earl and his Lady, That the Kingdom was in a high Feaver, and that no<g ref="char:EOLhyphen"/>thing but Blood-letting could reſtore it to Health; and then the Catho<g ref="char:EOLhyphen"/>lick Religion would flouriſh. Whereunto the ſaid Earl many times re<g ref="char:EOLhyphen"/>plied, It was not yet time; but he doubted not but ſuch means ſhould be uſed in due time, or words to that effect. And he heard the Lady <hi>Powis</hi> tell the ſaid <hi>Morgan</hi> and others publickly and privately, That when Religion ſhould be Reſtored in <hi>England</hi> (which ſhe doubted not but would be in a very ſhort time) ſhe would perſwade her Hus<g ref="char:EOLhyphen"/>band to give Three hundred pound <hi>per annum</hi> for a Foundation to maintain a Nunnery. And this Informant was perſwaded by the Lady <hi>Powis</hi> and the ſaid <hi>Morgan,</hi> to become a Fryer; the ſaid Lady encouraging this Informant thereunto, by ſaying, That if he would follow his Studies, and make himſelf capable, ſhe queſtioned not but he might ſhortly be made a Biſhop, by her Intereſt in <hi>England:</hi> becauſe upon Reſtauration of the Catholick Religion, there would want peo<g ref="char:EOLhyphen"/>ple fit to make Biſhops, and to do the buſineſs of the Church. And thereupon ſhe gave this Informant Ten pound to carry him to <hi>Doway</hi> where this Informant entred the Monaſtry, and continued about three weeks, and with much difficulty made his eſcape thence, and return<g ref="char:EOLhyphen"/>ed
+<pb n="3" facs="tcp:133424:2"/>
+               <!-- PDF PAGE 8 -->for <hi>England;</hi> For which the ſaid Earl and his Lady, and all the reſt that encouraged him to go to the Monaſtery, became his utter E<g ref="char:EOLhyphen"/>nemies; threatning to take away his life, and to get his Brother to diſ<g ref="char:EOLhyphen"/>inherit him. Which laſt is compaſſed againſt him; and Father <hi>Cudworth</hi> who was then Guardian of the Fryers at <hi>Doway,</hi> ſome days before his Eſcape thence, told this Informant, That if he ſhould not perſevere with them, he ſhould loſe his Life and Friends: And farther added, That this King ſhould not laſt long: and that his Succeſſour ſhould be wholly for their purpoſe. And Father <hi>Croſs,</hi> Provincial of the Fryers told this Informant, that had he been at <hi>Doway</hi> when this Informant made his Eſcape thence, he ſhould never have come to <hi>England.</hi> And this Informant finding himſelf friendleſs, and in danger in <hi>England,</hi> went to <hi>Paris,</hi> where one of his Brothers is a Benedictine Monk, who perſwaded this Informant to return for <hi>England.</hi> And in order there<g ref="char:EOLhyphen"/>unto, about the latter end of <hi>November</hi> 1675, he was introduced into the Aquaintance of the Lord <hi>Stafford,</hi> that he might go for <hi>England</hi> with his Lordſhip. And three Weeks he attended his Lordſhip, and had great acceſs and freedom with his Lordſhip, who gave him great aſſurances of his favour and intereſt to reſtore him to his Relations eſteem again: and ſaid, He had a piece of Service to propoſe to this In<g ref="char:EOLhyphen"/>formant, that would not onely retrieve his Reputation with his own Relations, but alſo oblige both them and their Party, to make him hap<g ref="char:EOLhyphen"/>py as long as he lived: And this Informant being deſirous to em<g ref="char:EOLhyphen"/>brace ſo Happy an Opertunity, was very inquiſitive after the means</p>
+            <p>But the ſaid Lord <hi>Stafford</hi> being ſomewhat difficult to repoſe ſo great a Truſt as he was to Communicate to him, exacted all the Obligations and promiſes of Secreſie, which this Informant gave his Lordſhip in the moſt ſolemn manner he could invent, Then his Lordſhip laboured to make this Informant ſenſible of all the advan<g ref="char:EOLhyphen"/>tages that would accrue to this Informant, and the Catholick cauſe. And then told this Informant in Direct Tearms, that he might make himſelf and the Nation happy, by taking away the Life of the King of <hi>England,</hi> who was a Heretick, and conſequently a Rebel againſt God Almighty. Of which this Informant deſired his, Lordſhip to give him time to conſider: and told his Lordſhip. That he would give him his anſwer at <hi>Diepe,</hi> where his Lordſhip intended to Ship for <hi>England,</hi> and to take this Informant with him. But this Informant going before to <hi>Diepe,</hi> the Lord <hi>Staf<g ref="char:EOLhyphen"/>ford</hi> went with Count <hi>Grammont</hi> by <hi>Calis,</hi> and ſent this Informant Orders to go for <hi>England;</hi> and to attend his Lordſhip at <hi>London.</hi> But this Informant did not attend his Lordſhip at <hi>London,</hi> but went into the French Service; and ſo avoided the Lord <hi>Staffords</hi> further importunities in that affair. And this Informant further ſaith, That one <hi>Remige</hi> a French Woman, and vehement Papiſh, who marri<g ref="char:EOLhyphen"/>ed this Informants Brother, lived with the Lady <hi>P<gap reason="illegible" extent="4+ letters">
+                     <desc>••••…</desc>
+                  </gap>
+               </hi> all the time
+<pb n="4" facs="tcp:133424:3"/>
+               <!-- PDF PAGE 9 -->this Informant reſided there, and ſome years ſince; and was the great conſident of the ſaid Lady. And the ſaid <hi>Remige</hi> was for the moſt part taken with her Ladyſhip into <hi>Morgans</hi> Chamber, when the Conſults were hold there; where he hath often ſeen Father <hi>Gavan,</hi> Father <hi>Tower's,</hi> Father <hi>Evans,</hi> Father <hi>Tylliard, Roberts, White, Owens, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ary,</hi> and the Earl of of <hi>Caſtlemain,</hi> and other Prieſts and Jeſuits meer, and ſhut themſelves up in the ſaid <hi>Morgans</hi> Chamber, ſometimes for one hour, ſometimes for Two hours, more or leſs; and at the breaking up of the ſaid Conſults, have broke out into an Extaſie of joy ſaying, They hoped ere long the Catholick Religion would be Eſtabliſhed in <hi>England,</hi> and that they did not doubt to bring about their Deſign, notwithſtanding they had met with one great Diſapointment, which was, the Peace ſtruck up with <hi>Holland:</hi> ſaying, That if the Army at <hi>Black-Heath</hi> had been ſent into <hi>Holland</hi> to Aſſiſt the French King, when he was with his Army near <hi>Am<g ref="char:EOLhyphen"/>ſterdam, Holland</hi> had certainly been Conquered; and then the French King would have been able to Aſſiſt us with an Army, to Eſtab<g ref="char:EOLhyphen"/>liſh Religion in <hi>England.</hi> Which expreſſions, with many others, importing their confidence to ſet up the Romiſh Religion, they fre<g ref="char:EOLhyphen"/>quently communicated to this Informant. And the ſaid, <hi>Morgan</hi> went ſeveral times into <hi>Ireland,</hi> to <hi>London,</hi> and ſeveral other parts of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as this Informant hath juſt cauſe to believe, to give and take Meaſures for carrying on the Deſign. And the ſaid <hi>Remige</hi> and her Husband, having firſt Clandeſtinely ſold there Eſtate, are ſled into <hi>France,</hi> about <hi>May</hi> or <hi>June</hi> laſt for fear of Diſcovery: This In<g ref="char:EOLhyphen"/>formant by many Circumſtances being aſſured, that the ſaid Miſ<g ref="char:EOLhyphen"/>treſs <hi>Remige</hi> was Privy to all or moſt of the Tranſactions of the Plot And he ſaith, That about <hi>May</hi> laſt was two years, he was preſent at Maſs with the Lord <hi>Powis</hi> in <hi>Vere-ſtreet,</hi> when the Earl of <hi>Caſ<g ref="char:EOLhyphen"/>tlemain</hi> did ſay Maſs in his Prieſtly Habit, after the Rites and Ce<g ref="char:EOLunhyphen"/>remonies of the Church of <hi>Rome.</hi>
+            </p>
+            <closer>
+               <signed>Edward Turbervill.</signed> 
+               <dateline>
+                  <date>Sworn the Ninth of <hi>November</hi> 1680.</date> Before <hi>Thomas Stringer. William Pulteney Edmond Warcupp,</hi>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
